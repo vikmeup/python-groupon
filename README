@@ -1,0 +1,18 @@
+python-groupon 0.5.18b1
+16-Aug-2010
+
+Copyright (c) 2010, Webframeworks LLC.
+All rights reserved.
+
+http://code.google.com/p/python-groupon/
+
+python-groupon provides a pure Python interface to the Groupon REST API.
+The interface provides standard, consistent, and predictable object-based
+interaction between your Python code and Groupon's API resources.
+
+python-groupon currently features:
+
+ * Groupon API support through version 2.
+ * Support for Groupon's documented API call options.
+ * Object-oriented request and response structures for straightforward application integration.
+ * Optional support for Groupon's standard response structure.
